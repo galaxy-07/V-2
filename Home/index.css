@@ -1,0 +1,102 @@
+
+.links{
+    text-decoration: none;
+    color: white;
+    font-family: 'Comic Neue', cursive;
+    font-family: 'Noto Sans Mono', monospace;
+    font-size: x-large;
+    margin-left: 75rem;
+    
+}
+
+
+.logos1{
+    width: 40px;
+    height: 40px;
+    margin-left: 55rem;
+}
+
+.logos{
+    width: 40px;
+    height: 40px;
+    margin-left: 60rem;
+}
+
+.logos2{
+    width: 40px;
+    height: 40px;
+    margin-left: 63rem;
+}
+
+.img{
+    width: max-content;
+    height: max-content;
+    opacity: 0.4;
+}
+
+.links:hover{
+    color: antiquewhite;
+}
+
+.searchBox{
+    padding-left: 33rem;
+    padding-top: 130px;
+}
+
+
+.btn3,.btn2{
+    margin-top: 60px;
+    border-radius: 4px;
+    margin-left: 650px;
+    display: inline-block;
+}
+
+.search-icon{
+    width: 50px;
+    height: 50px;
+}
+
+.btn2{
+    margin-top: 40px;
+    margin-left: 640px;
+}
+
+.footer{
+    background-color: azure;
+}
+.nav-bar{
+    text-decoration: none;
+    padding: 10px;
+}
+
+.links1{
+    margin-top: 18rem;
+    padding: 10px;
+    text-decoration: none;
+    color: burlywood;
+    font-family: 'Comic Neue', cursive;
+    font-family: 'Noto Sans Mono', monospace;
+}
+
+.links2{
+    color: aliceblue;
+    font-size: medium;
+
+}
+
+
+.index-img{
+    position: absolute;
+    width: 500px;
+    height: 500px;
+    top: 180px;
+    background-color: antiquewhite;
+    border-radius: 3px;  
+}
+
+.img2{
+    left: 900px;
+    top: 100px;
+    border-radius: 10px;
+}
+
